@@ -15,4 +15,4 @@ eureka:
 server:
   port: 8082
 env:
-  test1111
+  test
